@@ -7,7 +7,7 @@ import icon from "astro-icon";
 
 // https://astro.build/config
 export default defineConfig({
-  site: "https://sebastianba.github.io",
+  site: "https://sebas3173.github.io",
   base: '/SebastianBA.github.io/',
   integrations: [preact(), icon(), sitemap({
     filter: (page) =>
